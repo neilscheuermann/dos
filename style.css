@@ -1,0 +1,21 @@
+.card {
+  border: solid black 0.05em;
+  width: 10em;
+  height: 15em;
+}
+
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+.yellow {
+  background-color: yellow;
+}
+.black {
+  background-color: black;
+}
